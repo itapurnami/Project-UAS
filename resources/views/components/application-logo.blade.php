@@ -1,0 +1,1 @@
+<img style="width: 60px;" src="{{ asset('dist/img/apotek.jpg') }}">
